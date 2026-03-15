@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import type { PasswordEntry } from "../interfaces/password";
-import toast, { Toaster } from "react-hot-toast";
+import toast from "react-hot-toast";
 
 import PasswordForm from "../components/PasswordForm";
 import PasswordList from "../components/PasswordList";

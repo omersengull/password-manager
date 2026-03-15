@@ -1,4 +1,3 @@
-import React from 'react'
 import type { PasswordEntry } from '../interfaces/password';
 import {
   Eye,
