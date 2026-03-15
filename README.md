@@ -3,7 +3,7 @@
 Şifrelerini güvenle saklayabileceğin bir password manager uygulaması.
 
 ## Ekran Görüntüsü
-![Uygulama](./public/screenshots/ss.png)
+![Uygulama](/screenshots/ss.png)
 
 ## Teknolojiler
 - React + TypeScript
